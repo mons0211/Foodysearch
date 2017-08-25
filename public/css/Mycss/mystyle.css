@@ -1,0 +1,223 @@
+/* Index.php *//* Index.php *//* Index.php *//* Index.php *//* Index.php */
+                              /* Index.php */
+/* Index.php *//* Index.php *//* Index.php *//* Index.php *//* Index.php */
+body{
+    width: 100%;
+    height: 100%;
+}
+html{
+    width: 100%;
+    height: 100%
+}
+.navbar-default{
+    background-color:rgba(255, 255, 255,0.4);
+    border: transparent;
+}
+.navbar-default  {
+    border-bottom: 1px solid white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background: transparent;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: transparent;
+    border-color: #337ab7;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #555;
+    background-color: transparent;
+}
+
+/* main content *//* main content *//* main content *//* main content *//* main content */
+.intro-section {
+    height:90%;
+    width: 100%;
+    padding-top: 120px;
+    background:url('../..//img/mxcpseafood_shrimp_mussels_rice_peas.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+.img-section {
+    height: auto;
+    width: 100%;
+    
+}
+.about-section {
+    height: 100%;
+    width: 100%;
+    padding-top: 60px;
+    background:url('../..//img/mxcpOrange-slices-and-fruit-desserts_1366x768.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: auto;
+}
+.footer-section {
+    height: auto;
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    background:url('../..//img/mxcp320d5bfff12abd0fec1a8bb981a1cf3d.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: auto;
+}
+.footer-section_2{
+    height: auto;
+    width: 100%;
+    padding-top: 60px;
+    background-color: #262626;
+}
+/* main content *//* main content *//* main content *//* main content *//* main content */
+
+/* style *//* style *//* style *//* style *//* style *//* style */
+.style_1{
+    position: relative; 
+    bottom: 110px; 
+    border: 1px solid white; 
+    padding-top: 18px;
+    border-radius:3px;
+    background-color:rgba(192,192,192,0.4);
+}
+.style_2{
+    padding: 8px;
+    background-color:rgba(192,192,192,0.3);  
+}
+.style_3{
+    padding: 5px;
+    background-color:rgba(192,192,192,0.4);
+}
+.style_4{
+    color: #fff;  
+    text-shadow: 2px 2px 4px #000000; 
+    font-size: 54px; 
+    font-weight: 500; 
+    font-family: 'Kaushan Script', cursive;
+}
+.style_5{
+    color: #b4c705; 
+    text-shadow: 2px 2px 4px #000000; 
+    font-size: 22px; 
+    font-weight: 500; 
+    padding: 5px; 
+    font-family: 'Kaushan Script', cursive;
+}
+.style_6{
+    border: 1px solid white;
+    background-color:rgba(192,192,192,0.5); 
+    padding: 5px; 
+    margin-top: 30px;
+}
+.style_7{
+    width: 50px; 
+    height: 50px;
+}
+.style_7:hover{
+    width: 60px;
+    height: 60px;
+}
+.style_8{
+    margin-left: 24px;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+.style_9{
+    background-color:yellow; 
+    margin-bottom:30px; 
+    padding-top: 30px; 
+    border-radius: 3px;
+}
+.style_10{
+    color: white;
+    text-shadow: 2px 2px 4px #000000; 
+    font-size: 25px; 
+    font-weight: 500; 
+    padding: 5px; 
+    font-family: 'Kaushan Script', cursive;
+}
+.style_11{
+    color: #428bca;
+    font-size: 16px; 
+    font-weight: 500; 
+    font-family: serif;
+}
+.style_12{
+    font-family: monospace;
+}
+
+/* style *//* style *//* style *//* style *//* style *//* style */
+
+/* slide show *//* slide show *//* slide show *//* slide show */
+.carousel {
+/*    margin-bottom: 0;
+    padding: 0 40px 30px 40px;*/
+}
+.carousel-control {
+    left: -12px;
+    height: 40px;
+    width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 70px;
+}
+.carousel-control.right {
+	right: -12px;
+}
+.carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom: -10px;
+	margin-right: -19px;
+}
+.carousel-indicators li {
+	background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
+}
+/* slide show *//* slide show *//* slide show *//* slide show */
+
+/* Result.php *//* Result.php *//* Result.php *//* Result.php *//* Result.php */
+                                /* Result.php */
+/* Result.php *//* Result.php *//* Result.php *//* Result.php *//* Result.php */
+
+.intro-section-result {
+    height: 350px;
+    width: 100%;
+    padding-top: 90px;
+    background:url('../..//img/mxcpItalian.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+.content-section-result{
+    height: auto;
+    width: 100%;
+}
+/*register*//*register*//*register*//*register*//*register*/
+#main-register{
+    height: 100%;
+    width: 100%;
+    background:url('../..//img/mxcp2833045640593701045.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+.main{
+    padding-top: 100px;
+}
+.main-center{
+    padding: 15px;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+/*register*//*register*//*register*//*register*//*register*/

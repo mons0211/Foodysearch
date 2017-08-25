@@ -1,0 +1,15 @@
+@media only screen and (max-width: 580px) {
+        .style_4{
+        color: #fff;  
+        text-shadow: 2px 2px 4px #000000; 
+        font-size: 25px;  
+        font-family: 'Kaushan Script', cursive;
+        }
+        .style_5{
+        color: #b4c705; 
+        text-shadow: 2px 2px 4px #000000; 
+        font-size: 14px;  
+        padding: 5px; 
+        font-family: 'Kaushan Script', cursive;
+        }
+}

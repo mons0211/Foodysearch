@@ -1,0 +1,10 @@
+.upper{
+    height: 350px;
+    width: 100%;
+    background:url('../..//img/mxcpItalian.jpg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+

@@ -1,0 +1,115 @@
+body {
+/*  background-color: #c17c00;
+  color: #fff;*/
+}
+.absolute-text{
+  position: absolute;
+}
+#exTab1 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+#exTab2 h3 {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+/* remove border radius for the tab */
+
+#exTab1 .nav-pills > li > a {
+  border-radius: 0;
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+.bg_cover{
+    margin-top: -7%;
+    text-align: center;
+    
+}
+.bg_cover span{
+  font-size: 12px;
+  font-weight: 500px;
+  text-transform: uppercase;
+  
+}
+#panel{
+    margin-top: 8px;
+}
+.bg_cover img{
+    border-radius: 5px; 
+    border: 5px solid #ccc;
+}
+#panel .tab-content {
+    color: white;
+   
+    padding: 5px 15px;
+}
+#panel .nav-pills>li.active>a, #panel .nav-pills>li.active>a:focus, #panel .nav-pills>li.active>a:hover {
+    color: #c17c00;
+    font-size: 12px;
+    border-left: 4px solid #c17c00;
+    border-radius: 0px;
+    background-color: #ffffff;
+    font-weight: 700;
+}
+
+#panel .nav-pills>li>a {
+    background-color: transparent;
+    color: #000;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 0px;
+    background-color: #ffffff;
+}
+.account_details{
+    margin-top: 30px;
+}
+.details span{
+    
+    color: #0e0e0e;
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 11px;
+    font-weight: 500;
+}
+.details {
+    
+    color: #868383;
+    font-size: 10px;
+}
+.img-respons{
+    width: 100%;
+    height: 360px;
+}
+.account_details a{
+    color: #0e0e0e;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 7px 15px;
+    background-color: #fff;
+}
+.account_details a:hover{
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 7px 15px;
+    background-color: #000;
+}
+
+.fa-pencil-square-o{
+}

@@ -1,0 +1,39 @@
+
+#left{
+    border: 1px dashed #FFFFFF;
+    padding: 5px;
+}
+#reight{
+/*    border: 1px solid #262626;*/
+    padding-top: 17px;
+}
+#reight_2{
+    padding-top: 0px;
+}
+#holder{
+    padding: 10px;
+}
+.style_10{
+    color: #000000;
+    //text-shadow: 2px 2px 4px #000000; 
+    font-family: 'Kaushan Script', cursive;
+    font-family: monospace;
+}
+.edit{ 
+    border: 1px dashed #FFFFFF; 
+    margin-bottom: 5px;
+}
+.style_11{
+    color: white;
+/*    text-shadow: 2px 2px 4px #000000; 
+    font-family: 'Kaushan Script', cursive;*/
+    font-family: monospace;  
+}
+.form-control{
+    border-radius: 0px;
+    border: 1px dashed #000000;
+    margin-top: 5px;
+}
+.fa{
+    color: #262626;
+}
